@@ -20,9 +20,11 @@
 -	Import your .model
 -	Select your model and while maintaining SHIFT select the T-Body armature
 -	Press CTRL-P
+
 ![Step3](https://i.imgur.com/P6cB6nE.jpg)
 -	Set parent to: Armature deform.
 -	Done, now your .model will follow the T-pose armature and change position with LEFT and RIGHT keys.
+
 ![Step4](https://i.imgur.com/ST2eZ79.jpg)
 
 ## Notes:

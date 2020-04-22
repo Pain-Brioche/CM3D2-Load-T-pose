@@ -8,7 +8,7 @@
 -	Load T Pose Body included in CM3D2 Converter
 
 ![Step1](https://i.imgur.com/8LpVOFX.jpg)
--	From there you can switch from sitting-Pose to T-Pose with the right and left arrow keys
+-	From there you can switch from sitting-Pose to T-Pose with the RIGHT and LEFT arrow keys
 -	Make sure your body is in sitting-Pose
 -	Go into Pose mode
 -	Select the entire armature (A key)
